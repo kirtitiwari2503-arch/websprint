@@ -8,7 +8,7 @@
 ## 🚀 The Vision
 Generic to-do apps don't understand the difference between a "grocery list" and an "Engineering Lab Submission." **Semester Sync** bridges this gap by offering a distraction-free environment tailored to the undergraduate workflow.
 
-## ✨ Key Features (Judging Highlights)
+## ✨ Key Features 
 
 ### 📊 1. Real-Time Workload Dashboard
 - **Feature:** Instant-view summary cards showing "Total Subjects," "Total Tasks," and "Tasks Due Today."
