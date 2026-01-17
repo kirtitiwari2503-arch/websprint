@@ -34,3 +34,6 @@ Generic to-do apps don't understand the difference between a "grocery list" and 
 - **Languages:** HTML5, CSS3, JavaScript (ES6+)
 - **Design System:** Custom CSS Grid & Flexbox (No external UI libraries for maximum performance)
 - **Persistence:** LocalStorage integration (Simulated data persistence)
+- **Developed with ❤️ by:** Kirti Tiwari  
+**Event:** WebSprint 2026 (CSI UMIT)  
+**Theme:** PS 1: Productivity App for Engineering Students
