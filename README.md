@@ -1,39 +1,100 @@
-# Semester Sync 🎓 
-### *Empowering Engineering Students through Structured Productivity*
+# Semester Sync 📘
 
-**Semester Sync** is a high-performance frontend web application built for **WebSprint 2026**. It is specifically designed to solve the "cluttered dashboard" problem faced by engineering students by providing a streamlined, academic-first task management system.
+Semester Sync is a frontend productivity web application designed to help engineering students organize and manage their academic workload — including labs, assignments, exams, and deadlines — in one clear, visual interface.
+
+This project is **beginner-friendly** and open-source, making it ideal for first-time contributors who want hands-on experience with HTML, CSS, JavaScript, and GitHub collaboration.
 
 ---
 
-## 🚀 The Vision
-Generic to-do apps don't understand the difference between a "grocery list" and an "Engineering Lab Submission." **Semester Sync** bridges this gap by offering a distraction-free environment tailored to the undergraduate workflow.
+## 🌟 Features
 
-## ✨ Key Features 
+* Organize subjects, labs, assignments, and exams
+* Visual prioritization of academic tasks
+* Simple and clean UI for easy usability
+* Lightweight frontend-only architecture
 
-### 📊 1. Real-Time Workload Dashboard
-- **Feature:** Instant-view summary cards showing "Total Subjects," "Total Tasks," and "Tasks Due Today."
-- **UX Impact:** Provides immediate cognitive clarity on the day's academic burden, satisfying the "Visual Hierarchy" objective.
+---
 
-### 🚥 2. Visual Priority System
-- **Feature:** Color-coded task markers—**Red (High)**, **Orange (Medium)**, and **Green (Low)**.
-- **UX Impact:** Uses psychological color cues to help students prioritize urgent assignments and exam prep at a glance.
+## 🛠 Tech Stack
 
-### 🧪 3. Academic Task Model
-- **Feature:** Pre-defined categories for **Labs, Assignments, and Exams**.
-- **UX Impact:** Directly addresses the specific academic workflows required by Problem Statement 1.
+* HTML
+* CSS
+* JavaScript
+* Git & GitHub
 
-### 🎉 4. "All Caught Up" Success State
-- **Feature:** When all tasks are checked off, the UI transforms to show a custom illustration of a girl celebrating her completed work.
-- **Innovation:** Moves beyond basic functionality to provide emotional reward and positive reinforcement.
+---
 
-### 📱 5. Mobile-First Responsiveness
-- **Feature:** A fluid, flexible layout that works across all devices.
-- **Impact:** Ensures students can manage their schedules between lectures or while in the lab.
+## 📂 Project Structure
 
-## 🛠️ Tech Stack
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Design System:** Custom CSS Grid & Flexbox (No external UI libraries for maximum performance)
-- **Persistence:** LocalStorage integration (Simulated data persistence)
-- **Developed with ❤️ by:** Kirti Tiwari  
-**Event:** WebSprint 2026 (CSI UMIT)  
-**Theme:** PS 1: Productivity App for Engineering Students
+```
+websprint/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+1. Fork this repository
+2. Clone your fork
+
+   ```bash
+   git clone https://github.com/your-username/websprint.git
+   ```
+3. Open `index.html` in your browser
+
+No additional setup required 🎉
+
+---
+
+## 🤝 Contributing Guidelines
+
+We welcome all contributors — especially beginners!
+
+1. Check the **Issues** tab for `good first issue`
+2. Comment on the issue you'd like to work on
+3. Create a new branch
+4. Make your changes with clear commit messages
+5. Submit a Pull Request
+
+Please ensure your code is clean, readable, and well-commented.
+
+---
+
+## 🧩 Good First Issues
+
+Examples of beginner-friendly contributions:
+
+* Improve UI styling and responsiveness
+* Add task priority labels (High / Medium / Low)
+* Improve form validation
+* Add comments to existing code
+* Refactor JavaScript into functions
+
+---
+
+## 🌱 Open Source Program Friendly
+
+This project is suitable for:
+
+* OSCG
+* Hacktoberfest
+* College open-source programs
+
+---
+
+## 📬 Maintainer
+
+**Kirti Tiwari**
+GitHub: (https://github.com/kirtitiwari2503-arch)
+LinkedIn: (https://www.linkedin.com/in/kirti-tiwari-65109a371)
+
+---
+
+Happy contributing! ✨
